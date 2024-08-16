@@ -13,7 +13,7 @@ Este projeto tem como objetivo fornecer as últimas notícias e tendências do m
    ```bash
    git clone [https://docs.github.com/pt](https://docs.github.com/pt)
 
-   cd noticias-gamer
+   cd breakingnews
    npm install
    npm start
 
