@@ -5,6 +5,7 @@ Este projeto tem como objetivo fornecer as últimas notícias e tendências do m
 
 ## Tecnologias Utilizadas
 * **Frontend:** React
+* **Ui Design:** Figma
 * **Backend:** Node.js, Express
 * **Banco de dados:** MongoDB
 
