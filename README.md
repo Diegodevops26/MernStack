@@ -1,4 +1,4 @@
-# Quanta Code
+# API Quanta Code
 
 ## Descrição
 Este projeto tem como objetivo fornecer as últimas notícias e tendências do mundo da programação, com foco em **[Python, JavaScript, desenvolvimento web, inteligência artificial, etc.]**. Utilizando a stack MERN, o projeto busca oferecer uma experiência rápida e intuitiva para desenvolvedores de todos os níveis.
