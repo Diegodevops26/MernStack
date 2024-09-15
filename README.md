@@ -27,7 +27,7 @@ Este projeto tem como objetivo fornecer as últimas notícias e tendências do m
 
 
 ## Próximos Passos
-* **Implementar:**
+* **Implementar API:**
 * **Tela de listagem de notícias**
 * **Detalhes de uma notícia**
 * **Formulário de busca**
